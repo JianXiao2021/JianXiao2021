@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JianXiao2021
-- 👀 I’m interested in C/python/R programming
-- 🌱 I’m currently learning C/git/DBMS
+- 👀 I’m interested in python/C programming
+- 🌱 I’m currently learning LLM programming
 
 <!---
 JianXiao2021/JianXiao2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
